@@ -21,7 +21,7 @@ function Logotipo() {
 function Menu() {
   return (
 
-      <div className="bg-white md:p-2 w-screen md:flex items-center">
+      <div className="md:p-2 w-screen md:flex items-center">
         <a href="#" className="block md:flex">Nossa história</a>
         <a href="#" className="block md:flex">Nossos projetos</a>
         <a href="#" className="block md:flex">A equipe</a>
@@ -35,7 +35,7 @@ function Menu() {
 
 function NavBar() {
   return (
-    <div className="md:p-2 container h-28 max-w-7xl m-auto bg-red-300 flex flex-col md:flex-row justify-between items-center">
+    <div className="md:p-2 container h-28 max-w-7xl m-auto flex flex-col md:flex-row justify-between items-center">
       <Logotipo />
       <Menu />
     </div>
