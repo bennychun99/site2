@@ -87,7 +87,7 @@ function Home() {
         <NavBar />
       </div>
       <section className="p-2 md:container md:m-auto md:max-w-5xl" id="nossahistoria">
-    <h1 className="text-2xl	font-bold">Nossa história</h1>
+    <h1 className="text-2xl	font-bold mt-20">Nossa história</h1>
     <p>A Equipe PoliMilhagem surgiu em 2006, derivada de um projeto do PET Mecânica e, no ano seguinte, estreou seu primeiro protótipo, o PoliMapfre 07 (gasolina), na primeira competição do grupo, a Maratona de Eficiência Energética de 2007. Nesta competição, foram alcançados resultados significativos, consolidando-se entre as equipes automobilísticas da Poli. <br></br>
 Em 2008, após uma série de problemas internos, a equipe ficou inativa por cerca de 2 anos, retomando as atividades em 2011 com o desenvolvimento do novo protótipo a gasolina, o PoliPosition, do qual surgiram sequências nomeadas e baseadas no mesmo projeto, com pequenas mudanças entre as suas versões. Atualmente, a equipe está trabalhando no sétimo protótipo da sequência, o Position VII.<br></br>
 	Em 2016, foi introduzida na equipe a ideia de se desenvolver veículos elétricos, assim estreando o PoliVoltage, o primeiro e único veículo elétrico desenvolvido por um grupo de extensão da Poli. Ele foi seguido pelo PoliCurrent, que alcançou ótimos resultados em testes e treinos. Também neste ano, a equipe participou da primeira edição da Shell Eco Marathon, principal competição de sustentabilidade energética mundial.
