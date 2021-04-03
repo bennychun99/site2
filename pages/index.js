@@ -40,12 +40,12 @@ function Menu() {
         </button>
       </div>
 
-      <div className="bg-white p-2 flex items-center">
+      <div className="bg-white p-2 md:flex md:items-center">
         <a href="#" className="block md:flex">Nossa história</a>
         <a href="#" className="block md:flex">Nossos projetos</a>
         <a href="#" className="block md:flex">A equipe</a>
         <a href="#" className="block md:flex">Contato</a>
-        <a href="#" className="block md:flex bg-green-400 text-white rounded">
+        <a href="#" className="block md:flex bg-green-400 text-white md:rounded">
           Familhagem
         </a>
       </div>
