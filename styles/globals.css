@@ -20,7 +20,7 @@ a:visited {
   @apply px-3 inline-block text-center align-middle;
 }
 
-button:focus + ul{
-  opacity:1;
+button:focus + ul {
+  opacity: 1;
   pointer-events: all;
 }
