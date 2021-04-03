@@ -35,11 +35,20 @@ function Menu() {
 
 function NavBar() {
   return (
-    <div className="md:p-2 container h-28 max-w-7xl m-auto flex flex-col md:flex-row md:justify-between items-center">
+    <div className="md:p-2 container md:h-28 max-w-7xl m-auto flex flex-col md:flex-row md:justify-between items-center">
       <Logotipo />
       <Menu />
     </div>
   );
+}
+
+function SlideShow() {
+  return(
+    <div className>
+      <img src="https://dummyimage.com/600x400/000/fff" alt="fotos"/>
+
+    </div>
+  )
 }
 
 
@@ -52,6 +61,9 @@ function Home() {
       </Head>
       <div className="flex justify-center">
         <NavBar />
+      </div>
+      <div>
+      <SlideShow />
       </div>
     </div>
   );
