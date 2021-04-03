@@ -43,20 +43,20 @@ function NavBar() {
       {/* MENU DESKTOP*/}
       <div>
       <ul className="hidden md:block">
-          <li className="inline hover:bg-gray-400">
+          <li className="inline">
             <a href="#nossahistoria">Nossa história</a>
           </li>
-          <li className="inline hover:bg-gray-400">
+          <li className="inline">
             <a href="#nossosprojetos">Nossos projetos</a>
           </li>
-          <li className="inline hover:bg-gray-400">
+          <li className="inline">
             <a href="#aequipe">A equipe</a>
           </li>
-          <li className="inline hover:bg-gray-400">
+          <li className="inline">
             <a href="#contato">Contato</a>
           </li>
-          <li className="inline mb-4 hover:bg-purple-700">
-            <a href="#familhagem" className="">Familhagem</a>
+          <li className="inline ">
+            <a href="#familhagem" className="bg-green-400 rounded-md hover:bg-green-500">Familhagem</a>
           </li>
         </ul>
 
