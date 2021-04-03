@@ -48,16 +48,6 @@ function Menu() {
         </a>
         </div>
       </div>
-
-      <div className="hidden bg-white p-2 md:flex items-center">
-        <a href="#">Nossa história</a>
-        <a href="#">Nossos projetos</a>
-        <a href="#">A equipe</a>
-        <a href="#">Contato</a>
-        <a href="#" className="bg-green-400 text-white rounded">
-          Familhagem
-        </a>
-      </div>
     </div>
   );
 }
