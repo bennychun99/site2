@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Feed from "react-instagram-authless-feed"
 function Logotipo() {
   return (
     <div>
@@ -61,6 +62,19 @@ function NavBar() {
     </div>
   );
 }
+
+function InstagramFeed() {
+  return(
+    ReactDOM.render(
+      <Feed username="polimilhagem" />,
+      document.getElementById('root')
+    );
+  )
+}
+
+
+
+
 function Home() {
   return (
     <div>
@@ -71,6 +85,7 @@ function Home() {
       <div className="flex justify-center">
         <NavBar />
       </div>
+      <InstagramFeed />
     </div>
   );
 }
