@@ -45,7 +45,7 @@ function NavBar() {
 function SlideShow() {
   return(
     <div className>
-      <img src="https://dummyimage.com/1920x400/000/fff" alt="fotos"/>
+      <img src="https://dummyimage.com/1920x600/000/ffffff&text=Slideshow+com+fotos+da+equipe" alt="fotos"/>
 
     </div>
   )
