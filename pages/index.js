@@ -1,65 +1,77 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
-
-export default function Home() {
+import Head from "next/head";
+function Logotipo() {
   return (
-    <div className={styles.container}>
+    <div>
+      <a href="#">
+        <img
+          src="/logo-horizontal.png"
+          alt="Logotipo"
+          className="p-2 hidden md:inline-block max-h-16"
+        />
+        <img
+          src="/logo-vertical.png"
+          alt="Logotipo"
+          width={150}
+          className="p-2 inline-block md:hidden"
+        />
+      </a>
+    </div>
+  );
+}
+function Menu() {
+  return (
+    <div>
+      <div className="inline-block md:hidden">
+        <button>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          className="h-12"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M4 6h16M4 12h16M4 18h16"
+          />
+        </svg>
+        </button>
+      </div>
+
+      <div className="bg-white p-2 flex items-center">
+        <a href="#" className="block md:flex">Nossa história</a>
+        <a href="#" className="block md:flex">Nossos projetos</a>
+        <a href="#" className="block md:flex">A equipe</a>
+        <a href="#" className="block md:flex">Contato</a>
+        <a href="#" className="block md:flex bg-green-400 text-white rounded">
+          Familhagem
+        </a>
+      </div>
+    </div>
+  );
+}
+
+function NavBar() {
+  return (
+    <div className="p-2 container h-28 max-w-7xl m-auto bg-red-300 flex justify-between items-center">
+      <Logotipo />
+      <Menu />
+    </div>
+  );
+}
+function Home() {
+  return (
+    <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Equipe PoliMilhagem</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
-
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
-        </div>
-      </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
-      </footer>
+      <div className="flex justify-center">
+        <NavBar />
+      </div>
     </div>
-  )
+  );
 }
+export default Home;
