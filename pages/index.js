@@ -63,17 +63,6 @@ function NavBar() {
   );
 }
 
-function InstagramFeed() {
-  return(
-    ReactDOM.render(
-      <Feed username="polimilhagem" />,
-      document.getElementById('root')
-    );
-  )
-}
-
-
-
 
 function Home() {
   return (
@@ -85,7 +74,6 @@ function Home() {
       <div className="flex justify-center">
         <NavBar />
       </div>
-      <InstagramFeed />
     </div>
   );
 }
