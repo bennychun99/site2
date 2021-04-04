@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: theme => ({
-        'logo': "url('/logo-horizontal.png')"
+        'current': "url('/current-daora.jpeg')"
       })
     },
   },

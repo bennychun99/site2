@@ -88,7 +88,7 @@ Com a pandemia causada pelo Covid-19, a equipe continuou os trabalhos remotament
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, fugiat voluptatibus similique natus atque maiores sapiente a repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab optio, fuga officia in consequatur aliquam, numquam id aperiam iste facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos dolores ut beatae repellendus, voluptate corporis magnam, nulla officiis perferendis voluptates incidunt quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam error omnis laboriosam soluta dolorum quos ipsam voluptates? Error, velit esse. Fugit temporibus nulla cum vitae maiores. Numquam, incidunt!</p>
       </section>
       <div className="bg-fixed">
-      <section className="p-2 md:container md:m-auto md:max-w-5xl bg-logo" id="aequipe">
+      <section className="p-2 md:container md:m-auto md:max-w-5xl bg-fixed bg-current" id="aequipe">
     <h1 className="text-2xl	font-bold text-center">A equipe</h1>
     <p className="text-center">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure, molestias! <br/> Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br/>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto voluptate porro minus placeat quis reiciendis debitis nesciunt optio harum sequi.</p>
     </section>
