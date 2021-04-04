@@ -87,7 +87,7 @@ function Home() {
         <NavBar />
       </div>
       <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+src="https://www.youtube.com/watch?v=MJ4Alfup6_k">
 </iframe>
       <section className="p-2 md:container md:m-auto md:max-w-5xl" id="nossahistoria">
         
