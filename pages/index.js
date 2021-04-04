@@ -135,21 +135,22 @@ function Home() {
         </p>
       </section>
       <div className="bg-fixed">
-        <section
-          className="bg-cover bg-center bg-current"
-          id="aequipe"
-        >
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">A equipe</h1>
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
           <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
-            <br/> <br/> <br/> <br/> <br/> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure,
-            molestias! <br /> Lorem ipsum dolor sit amet consectetur adipisicing
-            elit. Cumque, tempora. <br />
+            <br /> <br /> <br /> <br /> <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
             voluptate porro minus placeat quis reiciendis debitis nesciunt optio
             harum sequi.
           </p>
 
-          <a href="#" className="bg-green-900 rounded-md">clique aqui</a>
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
         </section>
       </div>
       <section className="p-2 md:container md:m-auto md:max-w-5xl" id="contato">
