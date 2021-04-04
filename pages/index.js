@@ -139,8 +139,8 @@ function Home() {
           className="bg-cover bg-center bg-current"
           id="aequipe"
         >
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-9xl text-white">A equipe</h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-9xl text-white">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">A equipe</h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure,
             molestias! <br /> Lorem ipsum dolor sit amet consectetur adipisicing
             elit. Cumque, tempora. <br />
