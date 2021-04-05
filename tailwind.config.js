@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       backgroundImage: theme => ({
         'current': "url('/current-daora.jpeg')",
-        'bg1': "url('/bg1.png')",
+        'bg1': "url('/bg/bg1.png')",
         'bg2': "url('/bg/bg2.png')",
         'bg3': "url('/bg/bg3.png')",
         'bg4': "url('/bg/bg4.png')",

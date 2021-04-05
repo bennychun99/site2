@@ -120,8 +120,8 @@ function Home() {
         className="bg-cover bg-center bg-bg1"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -136,12 +136,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -153,13 +154,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg2"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -174,12 +176,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -191,13 +194,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg3"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -212,12 +216,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -229,13 +234,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg4"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -250,12 +256,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -267,13 +274,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg5"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -288,12 +296,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -305,13 +314,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg6"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -326,12 +336,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -343,13 +354,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg7"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -364,12 +376,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -381,13 +394,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg8"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -402,12 +416,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -419,13 +434,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg9"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -440,12 +456,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -457,13 +474,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg10"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -478,12 +496,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -495,13 +514,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg11"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -516,12 +536,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -533,13 +554,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg12"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -554,12 +576,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -571,13 +594,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg13"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -592,12 +616,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -609,13 +634,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg14"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -630,12 +656,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -647,13 +674,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg15"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -668,12 +696,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -685,13 +714,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg16"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -706,12 +736,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -723,13 +754,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg17"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -744,12 +776,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -761,13 +794,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg18"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -782,12 +816,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -799,13 +834,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg19"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -820,12 +856,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -837,13 +874,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg20"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -858,12 +896,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -875,13 +914,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg21"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -896,12 +936,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -913,13 +954,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg22"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -934,12 +976,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -951,13 +994,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg23"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -972,12 +1016,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -989,13 +1034,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg24"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -1010,12 +1056,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -1027,13 +1074,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg25"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -1048,12 +1096,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -1065,13 +1114,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg26"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -1086,12 +1136,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -1103,13 +1154,14 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
         <section
         className="bg-cover bg-center bg-bg27"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -1124,12 +1176,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      
+
         <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -1141,45 +1194,9 @@ function Home() {
           <a href="#" className="bg-green-900 rounded-md">
             clique aqui
           </a>
+        
         </section>
-        <section
-        className="bg-cover bg-center bg-bg1"
-        id="nossosprojetos"
-      >
-        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
-          fugiat voluptatibus similique natus atque maiores sapiente a
-          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
-          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
-          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
-          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
-          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
-          corporis magnam, nulla officiis perferendis voluptates incidunt
-          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
-          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
-          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
-          incidunt!
-        </p>
-      </section>
-      
-        <section className="bg-cover bg-center bg-current" id="aequipe">
-          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
-            A equipe
-          </h1>
-          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
-          <br /> Lorem ipsum dolor, sit amet
-            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
-            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
-            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
-            harum sequi.
-          </p>
 
-          <a href="#" className="bg-green-900 rounded-md">
-            clique aqui
-          </a>
-        </section>
       
     </div>
   );
