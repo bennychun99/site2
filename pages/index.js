@@ -83,23 +83,20 @@ function Home() {
       <div className="fixed right-0 left-0 top-0 m-0">
         <NavBar />
       </div>
-      <section
-        className="items-center bg-cover bg-fixed bg-center bg-current w-screen h-screen"
-      >
-        <div className="">
-        <h1 className="pt-96 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">EQUIPE POLIMILHAGEM</h1>
-        <p className="text-center md:m-auto md:max-w-5xl text-2xl text-white">
+      <section className="bg-cover bg-fixed bg-center bg-capa1  h-screen flex flex-col justify-center content-center">
+        <h1 className="font-bold text-center text-5xl text-white">EQUIPE POLIMILHAGEM</h1>
+        <p className="text-center text-2xl text-white">
           <br/> Bem vindos à Equipe Polimilhaem!
         </p>
-        </div>
+
       </section>
 
-        <section className="bg-cover bg-center bg-current" id="aequipe">
+        <section className="bg-cover bg-center bg-white" id="aequipe">
             
-          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+          <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-black">
             A equipe
           </h1>
-          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
+          <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-black">
           <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
@@ -114,7 +111,7 @@ function Home() {
         
         </section>
         <section
-        className="bg-cover bg-center bg-bg28"
+        className="bg-cover bg-center bg-arte1"
         id="nossosprojetos"
       >
         <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
@@ -154,11 +151,11 @@ function Home() {
         
         </section>
         <section
-        className="bg-cover bg-center bg-bg29"
+        className="bg-cover bg-center bg-white"
         id="nossosprojetos"
       >
-        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
-        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
+        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-black">Nossos projetos</h1>
+        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-black">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -174,7 +171,7 @@ function Home() {
         </p>
       </section>
 
-        <section className="bg-cover bg-center bg-current" id="aequipe">
+        <section className="bg-cover bg-center bg-arte2" id="aequipe">
             
           <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
