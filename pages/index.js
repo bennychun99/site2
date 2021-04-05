@@ -65,6 +65,14 @@ function NavBar() {
   );
 }
 
+function Footer() {
+  return(
+    <div>
+
+    </div>
+  )
+}
+
 function Home() {
   return (
     <div>
@@ -124,7 +132,7 @@ function Home() {
         </a>
       </section>
 
-      <section className="bg-cover bg-center bg-arte-clara2" id="nossos-projetos">
+      <section className="bg-cover bg-center bg-red-500 md:bg-arte-clara2" id="nossos-projetos">
         <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-black">
           Nossos projetos
         </h1>
