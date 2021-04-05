@@ -84,7 +84,7 @@ function Home() {
         <NavBar />
       </div>
       <section
-        className="items-center bg-cover bg-center bg-current w-screen h-screen"
+        className="items-center bg-cover bg-fixed bg-center bg-current w-screen h-screen"
       >
         <div className="">
         <h1 className="pt-96 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">EQUIPE POLIMILHAGEM</h1>
