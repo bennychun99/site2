@@ -2,7 +2,8 @@ import Head from "next/head";
 
 function NavBar() {
   return (
-    <div className="md:p-2 md:container md:max-w-5xl md:m-auto md:flex md:justify-between items-center bg-red-50 text-center w-screen z-50">
+    <div className="bg-white">
+    <div className="md:p-2 md:container md:max-w-5xl md:m-auto md:flex md:justify-between items-center bg-white text-center w-screen z-50">
       {/* LOGOTIPO */}
       <div>
         <a href="#">
@@ -68,6 +69,7 @@ function NavBar() {
         </ul>
       </div>
     </div>
+    </div>
   );
 }
 
@@ -115,11 +117,11 @@ function Home() {
         </p>
       </section>
       <section
-        className="p-2 md:container md:m-auto md:max-w-5xl"
+        className="bg-cover bg-center bg-bg1"
         id="nossosprojetos"
       >
-        <h1 className="text-2xl	font-bold">Nossos projetos</h1>
-        <p>
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
           fugiat voluptatibus similique natus atque maiores sapiente a
           repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
@@ -134,13 +136,13 @@ function Home() {
           incidunt!
         </p>
       </section>
-      <div className="bg-fixed">
+      
         <section className="bg-cover bg-center bg-current" id="aequipe">
           <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
             A equipe
           </h1>
           <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
-            <br /> <br /> <br /> <br /> <br /> Lorem ipsum dolor, sit amet
+          <br /> Lorem ipsum dolor, sit amet
             consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
             dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
@@ -152,44 +154,1033 @@ function Home() {
             clique aqui
           </a>
         </section>
-      </div>
-      <section className="p-2 md:container md:m-auto md:max-w-5xl" id="contato">
-        <h1 className="text-2xl	font-bold">Contato</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          maiores saepe aperiam tempora, perferendis, a magni repellat numquam
-          esse voluptates qui sit nihil quidem id fugiat error impedit molestiae
-          consectetur. <br /> Lorem ipsum, dolor sit amet consectetur
-          adipisicing elit. Error cupiditate deserunt tempore quisquam similique
-          cumque nesciunt. Repellendus vero enim ut aliquid quia deserunt fugit
-          exercitationem animi molestiae. Quia, nisi pariatur. <br /> Lorem
-          ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, itaque
-          saepe exercitationem eveniet tenetur natus fugiat minima doloremque
-          quidem earum excepturi corporis soluta quas! Recusandae illum error
-          temporibus perspiciatis laboriosam! <br /> Lorem ipsum dolor sit amet,
-          consectetur adipisicing elit. Quae nisi, similique cupiditate, iure
-          rem enim ab suscipit distinctio officia vitae eius dolore. Neque,
-          quas! Harum doloribus velit necessitatibus possimus aperiam. <br />{" "}
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla
-          veritatis tenetur ducimus facere magni adipisci tempora aut, earum
-          labore ut mollitia accusamus. Alias id voluptatibus mollitia nisi
-          laudantium! Quae, optio! <br /> Lorem ipsum, dolor sit amet
-          consectetur adipisicing elit. Officia, vero? Non nulla sunt commodi{" "}
-          <br /> architecto ipsum vero est veniam reprehenderit sint dicta
-          praesentium <br /> natus cupiditate voluptatibus necessitatibus porro
-          sit, neque rem ut voluptatum consequatur amet, temporibus repellendus!
-          Eveniet quasi ex eum iusto dicta possimus delectus at corrupti
-          voluptates dignissimos saepe perferendis quo voluptas voluptatum natus
-          dolores quas cumque iste harum, libero corporis laborum? Similique
-          odio nostrum velit consequuntur, aliquam iusto soluta blanditiis,
-          deserunt neque rerum laudantium ducimus dolor perspiciatis
-          exercitationem accusamus unde numquam repudiandae sequi quod non? Quas
-          deserunt labore corrupti, molestias sint perferendis sit minima
-          repellat quis quibusdam similique placeat iure eligendi obcaecati
-          quasi mollitia officiis enim quidem, nesciunt impedit dolores ut
-          saepe. Vero consequatur aliquam nesciunt non eius.
+        <section
+        className="bg-cover bg-center bg-bg2"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
         </p>
       </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg3"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg4"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg5"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg6"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg7"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg8"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg9"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg10"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg11"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg12"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg13"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg14"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg15"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg16"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg17"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg18"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg19"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg20"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg21"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg22"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg23"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg24"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg25"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg26"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg27"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+        <section
+        className="bg-cover bg-center bg-bg1"
+        id="nossosprojetos"
+      >
+        <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">Nossos projetos</h1>
+        <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
+          fugiat voluptatibus similique natus atque maiores sapiente a
+          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
+          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
+          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
+          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
+          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
+          corporis magnam, nulla officiis perferendis voluptates incidunt
+          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
+          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
+          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
+          incidunt!
+        </p>
+      </section>
+      
+        <section className="bg-cover bg-center bg-current" id="aequipe">
+          <h1 className="text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+            A equipe
+          </h1>
+          <p className="text-center md:m-auto md:max-w-5xl text-3xl text-white">
+          <br /> Lorem ipsum dolor, sit amet
+            consectetur adipisicing elit. Iure, molestias! <br /> Lorem ipsum
+            dolor sit amet consectetur adipisicing elit. Cumque, tempora. <br />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
+            voluptate porro minus placeat quis reiciendis debitis nesciunt optio
+            harum sequi.
+          </p>
+
+          <a href="#" className="bg-green-900 rounded-md">
+            clique aqui
+          </a>
+        </section>
+      
     </div>
   );
 }
