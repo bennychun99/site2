@@ -2,8 +2,8 @@ import Head from "next/head";
 
 function NavBar() {
   return (
-    <div className="bg-white">
-      <div className="md:p-2 md:container md:max-w-5xl md:m-auto md:flex md:justify-between items-center bg-white text-center w-screen z-50">
+    <div className="bg-gray-200">
+      <div className="md:p-2 md:container md:max-w-5xl md:m-auto md:flex md:justify-between items-center bg-gray-200 text-center w-screen z-50">
         {/* LOGOTIPO */}
         <div>
           <a href="#">
@@ -47,26 +47,18 @@ function NavBar() {
         <div>
           <ul className="hidden md:block">
             <li className="inline">
-              <a href="#nossahistoria">Nossa história</a>
+              <a href="#">Sobre nós</a>
             </li>
             <li className="inline">
-              <a href="#nossosprojetos">Nossos projetos</a>
+              <a href="#">A equipe</a>
             </li>
             <li className="inline">
-              <a href="#aequipe">A equipe</a>
+              <a href="#">Nossos projetos</a>
             </li>
             <li className="inline">
               <a href="#contato">Contato</a>
             </li>
-            <li className="inline ">
-              <a
-                href="#familhagem"
-                className="bg-green-400 rounded-md hover:bg-green-500"
-              >
-                Familhagem
-              </a>
-            </li>
-          </ul>
+           </ul>
         </div>
       </div>
     </div>
@@ -114,9 +106,9 @@ function Home() {
         </a>
       </section>
 
-      <section className="bg-cover bg-center bg-current" id="nossas-conquistas">
+      <section className="bg-cover bg-center bg-current" id="a-equipe">
         <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
-          Nossas conquistas
+          A equipe
         </h1>
         <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
           <br /> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure,
@@ -132,9 +124,9 @@ function Home() {
         </a>
       </section>
 
-      <section className="bg-cover bg-center bg-arte-clara2" id="familhagem">
+      <section className="bg-cover bg-center bg-arte-clara2" id="nossos-projetos">
         <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-black">
-          Familhagem
+          Nossos projetos
         </h1>
         <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-black">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
