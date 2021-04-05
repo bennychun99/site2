@@ -92,11 +92,11 @@ function Home() {
           EQUIPE POLIMILHAGEM
         </h1>
         <p className="text-center text-2xl text-white">
-          <br /> Bem vindos à Equipe Polimilhaem!
+          <br /> Bem vindos à Equipe Polimilhagem!
         </p>
       </section>
 
-      <section className="bg-cover bg-center bg-white" id="nossa-historia">
+      <section className="bg-cover bg-center bg-arte-clara1" id="nossa-historia">
         <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-black">
           Nossa história
         </h1>
@@ -112,26 +112,6 @@ function Home() {
         <a href="#" className="bg-green-900 rounded-md">
           clique aqui
         </a>
-      </section>
-
-      <section className="bg-cover bg-center bg-arte-clara1" id="nossos-projetos">
-        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-black">
-          Nossos projetos
-        </h1>
-        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-black">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
-          fugiat voluptatibus similique natus atque maiores sapiente a
-          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
-          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
-          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
-          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
-          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
-          corporis magnam, nulla officiis perferendis voluptates incidunt
-          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
-          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
-          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
-          incidunt!
-        </p>
       </section>
 
       <section className="bg-cover bg-center bg-current" id="nossas-conquistas">
