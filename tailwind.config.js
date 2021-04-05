@@ -9,6 +9,9 @@ module.exports = {
         'arte2': "url('/bg/bg30.png')",
         'capa1': "url('/bg/bg32.png')",
         'capa2': "url('/bg/bg33.png')",
+        'arte-clara1': "url('/bg/bg34.png')",
+        'arte-clara2': "url('/bg/bg35.png')",
+        
       })
     },
   },
