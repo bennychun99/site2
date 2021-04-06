@@ -70,12 +70,16 @@ function Footer() {
     <div className="bg-gray-700 divide-y divide-gray-900">
       <div className="max-w-5xl container m-auto bg-gray-700 flex flex-col place-items-center md:place-items-start md:justify-between md:flex-row">
         <div className="m-5">
-          <h1 className="text-green-300 text-xl font-bold text-center md:text-left">ENTRE EM CONTATO</h1>
-          <p className="text-white text-center md:text-left">polimilhagem@usp.br</p>
+          <h1 className="text-green-300 text-xl font-bold text-center md:text-left pb-2">
+            ENTRE EM CONTATO
+          </h1>
+          <p className="text-white text-center md:text-left">
+            polimilhagem@usp.br
+          </p>
           <p className="text-white text-center md:text-left">telefone</p>
         </div>
         <div className="m-5">
-          <h1 className="text-green-300 text-xl font-bold text-center md:text-left">
+          <h1 className="pb-2 text-green-300 text-xl font-bold text-center md:text-left">
             ACOMPANHE NOSSAS REDES
           </h1>
           <p className=" text-white text-center md:text-left">Instagram</p>
@@ -84,7 +88,9 @@ function Footer() {
           <p className=" text-white text-center md:text-left">LinkedIn</p>
         </div>
         <div className="m-5">
-          <h1 className=" text-green-300 text-xl font-bold text-center md:text-left">ENDEREÇO</h1>
+          <h1 className="pb-2 text-green-300 text-xl font-bold text-center md:text-left">
+            ENDEREÇO
+          </h1>
           <p className="text-white text-center md:text-left ">
             Av. Professor Mello Moraes, 2231 <br />
             CEP: 05508-030 <br />
@@ -92,13 +98,16 @@ function Footer() {
           </p>
         </div>
         <div className="m-5">
-          <h1 className=" text-green-300 text-xl font-bold text-center md:text-left">MEMBRO OFICIAL</h1>
+          <h1 className="pb-2 text-green-300 text-xl font-bold text-center md:text-left">
+            MEMBRO OFICIAL
+          </h1>
           <p className="text-white text-center md:text-left ">GE4R</p>
         </div>
       </div>
-    <div>
-      <div className="p-5"> <h1 className="text-center text-white">© 2021 Equipe PoliMilhagem</h1> </div>
-    </div>
+
+      <div className="p-5">
+        <h1 className="text-center text-white">© 2021 Equipe PoliMilhagem</h1>
+      </div>
     </div>
   );
 }
@@ -130,62 +139,54 @@ function Home() {
         className="bg-cover bg-center bg-arte1m md:bg-arte1"
         id="nossa-historia"
       >
-        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-black">
+        <h1 className="pt-48 text-4xl md:text-5xl	font-bold text-center md:m-auto md:max-w-5xl text-black">
           Nossa história
         </h1>
-        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-black">
-          <br /> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure,
-          molestias! <br /> Lorem ipsum dolor sit amet consectetur adipisicing
-          elit. Cumque, tempora. <br />
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
-          voluptate porro minus placeat quis reiciendis debitis nesciunt optio
-          harum sequi.
+        <p className="py-8 text-center md:m-auto md:max-w-5xl text-xl md:text-2xl text-black">
+          Somos a equipe de eficiência energética da Escola Politécnica da
+          Universidade de São Paulo. <br/> Projetamos e construímos nossos próprios
+          protótipos automotivos desde 2007 e estamos em constante evolução
+          desde então. <br /> Venha conhecer mais sobre a nossa história!
         </p>
-
-        <a href="#" className="bg-green-900 rounded-md">
-          clique aqui
-        </a>
+        <div className="pb-48 flex justify-center">
+          <a href="#" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
+            Saiba Mais!
+          </a>
+        </div>
       </section>
 
       <section className="bg-cover bg-center bg-capa2" id="a-equipe">
-        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
+        <h1 className="pt-48 font-bold text-center md:m-auto md:max-w-5xl text-4xl md:text-5xl text-white">
           A equipe
         </h1>
-        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-white">
-          <br /> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure,
-          molestias! <br /> Lorem ipsum dolor sit amet consectetur adipisicing
-          elit. Cumque, tempora. <br />
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
-          voluptate porro minus placeat quis reiciendis debitis nesciunt optio
-          harum sequi.
+        <p className="py-8 text-center md:m-auto md:max-w-5xl text-xl md:text-2xl text-white">
+          Para melhor administrar o desenvolvimento dos nossos projetos, a
+          equipe é dividida em subsistemas internos. <br /> Venha conhecer mais
+          a respeito de nossos membros!
         </p>
-
-        <a href="#" className="bg-green-900 rounded-md">
-          clique aqui
-        </a>
+        <div className="pb-48 flex justify-center">
+          <a href="#" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
+            Saiba Mais!
+          </a>
+        </div>
       </section>
-
       <section
         className="bg-cover bg-center bg-arte2m md:bg-arte2"
         id="nossos-projetos"
       >
-        <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-black">
+        <h1 className="pt-48 font-bold text-center md:m-auto md:max-w-5xl text-4xl md:text-5xl text-black">
           Nossos projetos
         </h1>
-        <p className="pb-48 text-center md:m-auto md:max-w-5xl text-2xl text-black">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
-          fugiat voluptatibus similique natus atque maiores sapiente a
-          repellendus? Magnam doloribus qui sunt? Pariatur nostrum assumenda ab
-          optio, fuga officia in consequatur aliquam, numquam id aperiam iste
-          facilis, modi ea quidem illo nihil. Tenetur praesentium fugit saepe
-          odio beatae quae reiciendis. Lorem ipsum dolor, sit amet consectetur
-          adipisicing elit. Quos dolores ut beatae repellendus, voluptate
-          corporis magnam, nulla officiis perferendis voluptates incidunt
-          quisquam soluta ipsam officia possimus illo fugiat. Dicta et numquam
-          error omnis laboriosam soluta dolorum quos ipsam voluptates? Error,
-          velit esse. Fugit temporibus nulla cum vitae maiores. Numquam,
-          incidunt!
+        <p className="py-8 text-center md:m-auto md:max-w-5xl text-xl md:text-2xl text-black">
+          Seja movido a gasolina ou energia elétrica, desenvolvemos protótipos
+          de excelência, sempre buscando alcançar o topo. <br /> Venha conhecer
+          os carros da equipe!{" "}
         </p>
+        <div className="pb-48 flex justify-center">
+          <a href="#" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
+            Saiba Mais!
+          </a>
+        </div>
       </section>
 
       <footer>
