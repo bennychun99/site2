@@ -150,7 +150,7 @@ function Home() {
         </p>
         <div className="pb-48 flex justify-center">
           <a href="#" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
-            Saiba Mais!
+            Saiba Mais
           </a>
         </div>
       </section>
@@ -166,7 +166,7 @@ function Home() {
         </p>
         <div className="pb-48 flex justify-center">
           <a href="#" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
-            Saiba Mais!
+            Saiba Mais
           </a>
         </div>
       </section>
@@ -184,7 +184,7 @@ function Home() {
         </p>
         <div className="pb-48 flex justify-center">
           <a href="#" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
-            Saiba Mais!
+            Saiba Mais
           </a>
         </div>
       </section>
