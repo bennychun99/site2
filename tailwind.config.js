@@ -4,13 +4,14 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: theme => ({
-        'current': "url('/bg/bg31.png')",
-        'arte1': "url('/bg/bg29.png')",
-        'arte2': "url('/bg/bg30.png')",
-        'capa1': "url('/bg/bg32.png')",
-        'capa2': "url('/bg/bg33.png')",
-        'arte-clara1': "url('/bg/bg34.png')",
-        'arte-clara2': "url('/bg/bg35.png')",
+        'capa1': "url('/bg/capa1.png')",
+        'capa2': "url('/bg/capa2.png')",
+        'capa3': "url('/bg/capa3.png')",
+        'arte1': "url('/bg/arte1.png')",
+        'arte2': "url('/bg/arte2.png')",
+        'arte1m': "url('/bg/arte1m.png')",
+        'arte2m': "url('/bg/arte2m.png')",
+
         
       })
     },

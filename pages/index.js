@@ -58,7 +58,7 @@ function NavBar() {
             <li className="inline">
               <a href="#contato">Contato</a>
             </li>
-           </ul>
+          </ul>
         </div>
       </div>
     </div>
@@ -66,11 +66,41 @@ function NavBar() {
 }
 
 function Footer() {
-  return(
+  return (
+    <div className="bg-gray-700 divide-y divide-gray-900">
+      <div className="max-w-5xl container m-auto bg-gray-700 flex flex-col place-items-center md:justify-between md:flex-row">
+        <div className="m-5">
+          <h1 className="text-green-300 text-xl font-bold text-center md:text-left">ENTRE EM CONTATO</h1>
+          <p className="text-white text-center md:text-left">polimilhagem@usp.br</p>
+          <p className="text-white text-center md:text-left">telefone</p>
+        </div>
+        <div className="m-5">
+          <h1 className="text-green-300 text-xl font-bold text-center md:text-left">
+            ACOMPANHE NOSSAS REDES
+          </h1>
+          <p className=" text-white text-center md:text-left">Instagram</p>
+          <p className="text-white text-center md:text-left">Facebook</p>
+          <p className="text-white text-center md:text-left ">Youtube</p>
+          <p className=" text-white text-center md:text-left">LinkedIn</p>
+        </div>
+        <div className="m-5">
+          <h1 className=" text-green-300 text-xl font-bold text-center md:text-left">ENDEREÇO</h1>
+          <p className="text-white text-center md:text-left ">
+            Av. Professor Mello Moraes, 2231 <br />
+            CEP: 05508-030 <br />
+            São Paulo, SP
+          </p>
+        </div>
+        <div className="m-5">
+          <h1 className=" text-green-300 text-xl font-bold text-center md:text-left">MEMBRO OFICIAL</h1>
+          <p className="text-white text-center md:text-left ">GE4R</p>
+        </div>
+      </div>
     <div>
-
+      <div className="p-5"> <h1 className="text-center text-white">© 2021 Equipe PoliMilhagem</h1> </div>
     </div>
-  )
+    </div>
+  );
 }
 
 function Home() {
@@ -83,7 +113,7 @@ function Home() {
       <div className="fixed right-0 left-0 top-0 m-0">
         <NavBar />
       </div>
-      
+
       <section
         className="bg-cover bg-fixed bg-center bg-capa1  h-screen flex flex-col justify-center content-center"
         id="bem-vindos"
@@ -96,7 +126,10 @@ function Home() {
         </p>
       </section>
 
-      <section className="bg-cover bg-center bg-arte-clara1" id="nossa-historia">
+      <section
+        className="bg-cover bg-center bg-arte1m md:bg-arte1"
+        id="nossa-historia"
+      >
         <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-black">
           Nossa história
         </h1>
@@ -114,7 +147,7 @@ function Home() {
         </a>
       </section>
 
-      <section className="bg-cover bg-center bg-current" id="a-equipe">
+      <section className="bg-cover bg-center bg-capa2" id="a-equipe">
         <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-white">
           A equipe
         </h1>
@@ -132,7 +165,10 @@ function Home() {
         </a>
       </section>
 
-      <section className="bg-cover bg-center bg-red-500 md:bg-arte-clara2" id="nossos-projetos">
+      <section
+        className="bg-cover bg-center bg-arte2m md:bg-arte2"
+        id="nossos-projetos"
+      >
         <h1 className="pt-48 text-2xl	font-bold text-center md:m-auto md:max-w-5xl text-5xl text-black">
           Nossos projetos
         </h1>
@@ -151,6 +187,10 @@ function Home() {
           incidunt!
         </p>
       </section>
+
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 }
