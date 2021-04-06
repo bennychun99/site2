@@ -2,8 +2,8 @@ import Head from "next/head";
 
 function NavBar() {
   return (
-    <div className="bg-gray-200">
-      <div className="md:p-2 md:container md:max-w-5xl md:m-auto md:flex md:justify-between items-center bg-gray-200 text-center w-screen z-50">
+    <div className="bg-white">
+      <div className="md:p-2 md:container md:max-w-5xl md:m-auto md:flex md:justify-between items-center bg-white text-center w-screen z-50">
         {/* LOGOTIPO */}
         <div>
           <a href="#">
