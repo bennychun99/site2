@@ -142,7 +142,7 @@ function Home() {
         <h1 className="pt-48 text-4xl md:text-5xl	font-bold text-center md:m-auto md:max-w-5xl text-black">
           Nossa história
         </h1>
-        <p className="py-8 text-center md:m-auto md:max-w-5xl text-xl md:text-2xl text-black">
+        <p className="py-8 px-3 text-center md:m-auto md:max-w-5xl text-xl md:text-2xl text-black">
           Somos a equipe de eficiência energética da Escola Politécnica da
           Universidade de São Paulo. <br/> Projetamos e construímos nossos próprios
           protótipos automotivos desde 2007 e estamos em constante evolução
@@ -159,7 +159,7 @@ function Home() {
         <h1 className="pt-48 font-bold text-center md:m-auto md:max-w-5xl text-4xl md:text-5xl text-white">
           A equipe
         </h1>
-        <p className="py-8 text-center md:m-auto md:max-w-5xl text-xl md:text-2xl text-white">
+        <p className="py-8 px-3 text-center md:m-auto md:max-w-5xl text-xl md:text-2xl text-white">
           Para melhor administrar o desenvolvimento dos nossos projetos, a
           equipe é dividida em subsistemas internos. <br /> Venha conhecer mais
           a respeito de nossos membros!
@@ -177,7 +177,7 @@ function Home() {
         <h1 className="pt-48 font-bold text-center md:m-auto md:max-w-5xl text-4xl md:text-5xl text-black">
           Nossos projetos
         </h1>
-        <p className="py-8 text-center md:m-auto md:max-w-5xl text-xl md:text-2xl text-black">
+        <p className="py-8 px-3 text-center md:m-auto md:max-w-5xl text-xl md:text-2xl text-black">
           Seja movido a gasolina ou energia elétrica, desenvolvemos protótipos
           de excelência, sempre buscando alcançar o topo. <br /> Venha conhecer
           os carros da equipe!{" "}
