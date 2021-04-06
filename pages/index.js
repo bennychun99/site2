@@ -149,7 +149,7 @@ function Home() {
           desde então. <br /> Venha conhecer mais sobre a nossa história!
         </p>
         <div className="pb-48 flex justify-center">
-          <a href="#" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
+          <a href="/about" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
             Saiba Mais
           </a>
         </div>
@@ -165,7 +165,7 @@ function Home() {
           a respeito de nossos membros!
         </p>
         <div className="pb-48 flex justify-center">
-          <a href="#" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
+          <a href="/team" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
             Saiba Mais
           </a>
         </div>
@@ -183,7 +183,7 @@ function Home() {
           os carros da equipe!{""}
         </p>
         <div className="pb-48 flex justify-center">
-          <a href="#" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
+          <a href="/projects" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
             Saiba Mais
           </a>
         </div>
