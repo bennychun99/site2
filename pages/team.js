@@ -122,7 +122,7 @@ function Home() {
       <div className="fixed right-0 left-0 top-0 m-0">
         <NavBar />
       </div>
-      <div>
+      <div className="pt-20">
         <p>testeeeee</p>
         <p>equipe</p>
       </div>
