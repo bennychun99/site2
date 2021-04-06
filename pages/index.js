@@ -180,7 +180,7 @@ function Home() {
         <p className="py-8 px-3 text-center md:m-auto md:max-w-5xl text-xl md:text-2xl text-black">
           Seja movido a gasolina ou energia elétrica, desenvolvemos protótipos
           de excelência, sempre buscando alcançar o topo. <br /> Venha conhecer
-          os carros da equipe!{" "}
+          os carros da equipe!{""}
         </p>
         <div className="pb-48 flex justify-center">
           <a href="#" className="text-lg md:text-xl p-3 bg-green-300 rounded-md">
