@@ -5,7 +5,7 @@ function NavBar() {
       <div className="md:p-2 md:container md:max-w-5xl md:m-auto md:flex md:justify-between items-center bg-white text-center w-screen z-50">
         {/* LOGOTIPO */}
         <div>
-          <a href="#">
+          <a href="/">
             <img
               src="/logo-horizontal.png"
               alt="Logotipo"
