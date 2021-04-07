@@ -75,7 +75,6 @@ function Footer() {
           <p className="text-white text-center md:text-left">
             polimilhagem@gmail.com
           </p>
-          <p className="text-white text-center md:text-left">(11) 96377-3901</p>
         </div>
         <div className="m-5">
           <h1 className="pb-2 text-green-300 text-xl font-bold text-center md:text-left">
@@ -189,7 +188,7 @@ function Home() {
         </div>
       </section>
 <div className="flex justify-center flex-col">
-  <h1 className="pt-48 font-bold text-center md:m-auto md:max-w-5xl text-4xl md:text-5xl text-black">Patrocinadores</h1>
+  <h1 className="pt-6 font-bold text-center md:m-auto md:max-w-5xl text-4xl md:text-5xl text-black">Patrocinadores</h1>
   <img src="/sponsor.png" alt="Patrocinadores" className="md:max-w-5xl md:m-auto"/>
 </div>
       <footer>
