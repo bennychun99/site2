@@ -73,7 +73,7 @@ function Footer() {
             ENTRE EM CONTATO
           </h1>
           <p className="text-white text-center md:text-left">
-            polimilhagem@gmail.com
+            polimilhagem.usp@gmail.com
           </p>
         </div>
         <div className="m-5">

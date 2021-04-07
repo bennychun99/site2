@@ -74,18 +74,18 @@ function Footer() {
             ENTRE EM CONTATO
           </h1>
           <p className="text-white text-center md:text-left">
-            polimilhagem@usp.br
+            polimilhagem.usp@gmail.com
           </p>
-          <p className="text-white text-center md:text-left">telefone</p>
         </div>
         <div className="m-5">
           <h1 className="pb-2 text-green-300 text-xl font-bold text-center md:text-left">
             ACOMPANHE NOSSAS REDES
           </h1>
-          <p className=" text-white text-center md:text-left">Instagram</p>
-          <p className="text-white text-center md:text-left">Facebook</p>
-          <p className="text-white text-center md:text-left ">Youtube</p>
-          <p className=" text-white text-center md:text-left">LinkedIn</p>
+          <a href="https://www.facebook.com/PoliMilhagem/"><img src="/icons/facebook-square-brands.svg" alt="Facebook" className="h-11 filter-white"/></a>
+          <a href="https://www.instagram.com/polimilhagem/"><img src="/icons/instagram-square-brands.svg" alt="Instagrm" className="h-11 filter-white"/></a>
+          <a href="https://www.youtube.com/channel/UCcn3NmNhqWIoj7IB-Tb0eEQ"><img src="/icons/youtube-square-brands.svg" alt="YouTube" className="h-11 filter-white"/></a>
+          <a href="https://www.linkedin.com/company/polimilhagem"><img src="/icons/linkedin-brands.svg" alt="LinkedIn" className="h-11 filter-white"/></a>
+
         </div>
         <div className="m-5">
           <h1 className="pb-2 text-green-300 text-xl font-bold text-center md:text-left">
@@ -101,7 +101,7 @@ function Footer() {
           <h1 className="pb-2 text-green-300 text-xl font-bold text-center md:text-left">
             MEMBRO OFICIAL
           </h1>
-          <p className="text-white text-center md:text-left ">GE4R</p>
+          <a href="https://www.gearpoli.com.br/"><img src="ge4rPoli_branco.png" alt="Gear Poli" className="h-12"/></a>
         </div>
       </div>
 
