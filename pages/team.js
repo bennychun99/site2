@@ -6,7 +6,7 @@ function NavBar() {
       <div className="md:p-2 md:container md:max-w-5xl md:m-auto md:flex md:justify-between items-center bg-white text-center w-screen z-50">
         {/* LOGOTIPO */}
         <div>
-          <a href="/">
+          <a href="#">
             <img
               src="/logo-horizontal.png"
               alt="Logotipo"
@@ -47,16 +47,16 @@ function NavBar() {
         <div>
           <ul className="hidden md:block">
             <li className="inline">
-              <a href="#">Sobre nós</a>
+              <a href="/about">Sobre nós</a>
             </li>
             <li className="inline">
-              <a href="#">A equipe</a>
+              <a href="/team">A equipe</a>
             </li>
             <li className="inline">
-              <a href="#">Nossos projetos</a>
+              <a href="/projects">Nossos projetos</a>
             </li>
             <li className="inline">
-              <a href="#contato">Contato</a>
+              <a href="/contactus">Contato</a>
             </li>
           </ul>
         </div>
