@@ -73,9 +73,9 @@ function Footer() {
             ENTRE EM CONTATO
           </h1>
           <p className="text-white text-center md:text-left">
-            polimilhagem@usp.br
+            polimilhagem@gmail.com
           </p>
-          <p className="text-white text-center md:text-left">telefone</p>
+          <p className="text-white text-center md:text-left">(11) 96377-3901</p>
         </div>
         <div className="m-5">
           <h1 className="pb-2 text-green-300 text-xl font-bold text-center md:text-left">
@@ -101,7 +101,7 @@ function Footer() {
           <h1 className="pb-2 text-green-300 text-xl font-bold text-center md:text-left">
             MEMBRO OFICIAL
           </h1>
-          <p className="text-white text-center md:text-left ">GE4R</p>
+          <a href="https://www.gearpoli.com.br/"><img src="ge4rPoli_branco.png" alt="Gear Poli" className="h-12"/></a>
         </div>
       </div>
 
