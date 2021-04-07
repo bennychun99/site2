@@ -46,16 +46,16 @@ function NavBar() {
         <div>
           <ul className="hidden md:block">
             <li className="inline">
-              <a href="#">Sobre nós</a>
+              <a href="/about">Sobre nós</a>
             </li>
             <li className="inline">
-              <a href="#">A equipe</a>
+              <a href="/team">A equipe</a>
             </li>
             <li className="inline">
-              <a href="#">Nossos projetos</a>
+              <a href="/projects">Nossos projetos</a>
             </li>
             <li className="inline">
-              <a href="#contato">Contato</a>
+              <a href="/contactus">Contato</a>
             </li>
           </ul>
         </div>
