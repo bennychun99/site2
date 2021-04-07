@@ -24,6 +24,6 @@ button:focus + ul {
   opacity: 1;
   pointer-events: all;
 }
-.filter-green{
-  filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
+.filter-white{
+  filter: invert(100%) sepia(0%) saturate(4065%) hue-rotate(58deg) brightness(105%) contrast(109%);
 }
