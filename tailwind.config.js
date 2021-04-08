@@ -12,6 +12,10 @@ module.exports = {
         'arte1m': "url('/bg/arte1m.png')",
         'arte2m': "url('/bg/arte2m.png')",
         'gaiola': "url('/bg/gaiola.png')",
+        'about1': "url('/bg/about/1.png')",
+        'about2': "url('/bg/about/2.png')",
+        'about3': "url('/bg/about/3.png')",
+        'about4': "url('/bg/about/4.png')",
 
 
         

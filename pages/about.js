@@ -15,7 +15,7 @@ function About() {
       <div className="pt-20">
 
       <section
-        className="bg-cover bg-fixed bg-center bg-capa3  h-capa flex flex-col justify-center content-center"
+        className="bg-contain bg-no-repeat bg-fixed bg-top bg-about3  h-capa flex flex-col justify-center content-center"
         id="bem-vindos"
       >
         <h1 className="font-bold text-center text-5xl text-white">
