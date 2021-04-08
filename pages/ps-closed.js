@@ -14,7 +14,7 @@ function Home() {
       </div>
       <div className="pt-20">
         <p>testeeeee</p>
-        <p>projetos</p>
+        <p>PS fechado</p>
       </div>
       <footer>
         <Footer />

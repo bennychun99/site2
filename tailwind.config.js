@@ -11,6 +11,8 @@ module.exports = {
         'arte2': "url('/bg/arte2.png')",
         'arte1m': "url('/bg/arte1m.png')",
         'arte2m': "url('/bg/arte2m.png')",
+        'gaiola': "url('/bg/gaiola.png')",
+
 
         
       })

@@ -27,3 +27,7 @@ button:focus + ul {
 .filter-white{
   filter: invert(100%) sepia(0%) saturate(4065%) hue-rotate(58deg) brightness(105%) contrast(109%);
 }
+
+.h-capa{
+  height: 36rem;
+}
