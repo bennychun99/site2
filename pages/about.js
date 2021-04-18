@@ -13,35 +13,34 @@ function About() {
         <NavBar />
       </div>
       <div className="pt-20">
+        <section
+          className="bg-contain bg-fixed bg-top bg-about3 bg-repeat-y   h-capa flex flex-col justify-center content-center"
+          id="bem-vindos"
+        >
+          <h1 className="font-bold text-center text-5xl text-white">
+            NOSSA HISTÓRIA
+          </h1>
+          <p className="text-center text-2xl text-white">
+            <br /> Desde 2007 (frase impactante).
+          </p>
+        </section>
 
-      <section
-        className="bg-contain bg-no-repeat bg-fixed bg-top bg-about3  h-capa flex flex-col justify-center content-center"
-        id="bem-vindos"
-      >
-        <h1 className="font-bold text-center text-5xl text-white">
-          NOSSA HISTÓRIA
-        </h1>
-        <p className="text-center text-2xl text-white">
-          <br /> Desde 2007 (frase impactante).
-        </p>
-      </section>
-
-
-      <section
-        className="bg-cover bg-center bg-arte1m md:bg-arte1"
-      >
-        <h1 className="pt-48 text-4xl md:text-5xl	font-bold text-center md:m-auto md:max-w-5xl text-black">
-          Linha do tempo
-        </h1>
-        <p className="pb-48 pt-8 px-3 text-center md:m-auto md:max-w-2xl text-xl md:text-2xl text-black">
-          Projetamos e construímos nossos próprios
-          protótipos automotivos desde 2007 e estamos em constante evolução
-          desde então. <br /> Venha conhecer mais sobre a nossa história!
-        </p>
-
-      </section>
+        <section className="bg-gray-700">
+          <h1 className="pt-10 text-4xl md:text-5xl	font-bold text-center md:m-auto md:max-w-5xl text-white">Linha do Tempo</h1>
+          <img src="/timeline.png" alt="Linha do tempo" className="m-auto" />
+        </section>
 
 
+        <section className="bg-cover bg-center bg-arte1m md:bg-arte1">
+          <h1 className="pt-48 text-4xl md:text-5xl	font-bold text-center md:m-auto md:max-w-5xl text-black">
+            Linha do tempo
+          </h1>
+          <p className="pb-48 pt-8 px-3 text-center md:m-auto md:max-w-2xl text-xl md:text-2xl text-black">
+            Projetamos e construímos nossos próprios protótipos automotivos
+            desde 2007 e estamos em constante evolução desde então. <br /> Venha
+            conhecer mais sobre a nossa história!
+          </p>
+        </section>
       </div>
       <footer>
         <Footer />
