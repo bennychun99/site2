@@ -47,14 +47,11 @@ export const NavBar = () => {
               <li className="inline">
                 <a href="/about">Sobre nós</a>
               </li>
-              <li className="inline">
+              {/* <li className="inline">
                 <a href="/team">A equipe</a>
-              </li>
+              </li> */}
               <li className="inline">
                 <a href="/projects">Nossos projetos</a>
-              </li>
-              <li className="inline">
-                <a href="/contactus">Contato</a>
               </li>
             </ul>
           </div>
