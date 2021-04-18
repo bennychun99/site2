@@ -53,6 +53,12 @@ export const NavBar = () => {
               <li className="inline">
                 <a href="/projects">Nossos projetos</a>
               </li>
+              <li className="inline">
+                <a href="/#sponsors">Patrocinadores</a>
+              </li>
+              <li className="inline">
+                <a href="#contactus">Contato</a>
+              </li>
             </ul>
           </div>
         </div>

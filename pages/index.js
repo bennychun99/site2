@@ -80,7 +80,7 @@ function Home() {
           </a>
         </div>
       </section>
-<div className="flex justify-center flex-col w-full">
+<div id="sponsors" className="flex justify-center flex-col w-full">
   <h1 className="pt-6 font-bold text-center md:m-auto md:max-w-5xl text-4xl md:text-5xl text-black">Patrocinadores</h1>
   <img src="/sponsor.png" alt="Patrocinadores" className="md:max-w-5xl md:m-auto w-full"/>
 </div>

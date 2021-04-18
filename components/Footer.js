@@ -1,6 +1,6 @@
 export const Footer = () => {
     return (
-      <div className="bg-gray-700 divide-y divide-gray-900">
+      <div id="contactus" className="bg-gray-700 divide-y divide-gray-900">
         <div className="max-w-5xl container m-auto bg-gray-700 flex flex-col place-items-center md:place-items-start md:justify-between md:flex-row">
           <div className="m-5">
             <h1 className="text-green-300 text-xl font-bold text-center md:text-left pb-2">
