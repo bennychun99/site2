@@ -7,7 +7,7 @@ function Home() {
     <div>
       <Head>
         <title>Equipe PoliMilhagem</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo-icon.png" />
       </Head>
       <div className="fixed right-0 left-0 top-0 m-0">
         <NavBar />
