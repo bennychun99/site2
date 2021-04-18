@@ -40,6 +40,7 @@ export const Footer = () => {
   
         <div className="p-5">
           <h1 className="text-center text-white">© 2021 Equipe PoliMilhagem</h1>
+          <p className="text-white flex justify-center items-center">&nbsp;&nbsp;&nbsp;Confira esse site no<a href="https://github.com/bennychun99/site2"><img src="/icons/github-brands.svg" alt="GitHub" className="h-5 filter-white inline"/> GitHub</a></p>
         </div>
       </div>
     );
